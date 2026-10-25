@@ -7,7 +7,7 @@
     "name": "Suki"
   },
   "homepage": "https://developer.suki.ai/documentation/cookbooks/overview",
-  "repository": "https://github.com/HarshSuki/suki-agent-plugins",
+  "repository": "https://github.com/suki-developer/suki-agent-plugins",
   "license": "Proprietary",
   "skills": "./skills/"
 }

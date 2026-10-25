@@ -9,13 +9,13 @@ This repository contains only plugin manifests and short recipe skills. Full doc
 ### Cursor
 
 1. Open **Customize** → plugins / marketplaces.
-2. Add marketplace from GitHub: `HarshSuki/suki-agent-plugins`
+2. Add marketplace from GitHub: `suki-developer/suki-agent-plugins`
 3. Install the **cookbook** plugin.
 
 ### Claude Code
 
 ```bash
-/plugin marketplace add HarshSuki/suki-agent-plugins
+/plugin marketplace add suki-developer/suki-agent-plugins
 /plugin install cookbook@suki-cookbook
 ```
 
@@ -23,7 +23,7 @@ This repository contains only plugin manifests and short recipe skills. Full doc
 
 ### Codex
 
-Add `HarshSuki/suki-agent-plugins` as a plugin marketplace, then install **cookbook**.
+Add `suki-developer/suki-agent-plugins` as a plugin marketplace, then install **cookbook**.
 
 ### Docs without installing a plugin
 
