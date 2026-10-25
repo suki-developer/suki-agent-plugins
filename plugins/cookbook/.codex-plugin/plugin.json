@@ -1,0 +1,29 @@
+{
+  "name": "cookbook",
+  "version": "1.0.0",
+  "description": "Run Suki developer cookbook recipes with guided integration steps for Partner APIs and SDKs.",
+  "license": "Proprietary",
+  "keywords": [
+    "suki",
+    "cookbook",
+    "ambient",
+    "form-filling",
+    "dictation",
+    "patient-summary",
+    "webhooks"
+  ],
+  "interface": {
+    "displayName": "Suki Cookbook",
+    "shortDescription": "Short Suki integration recipes for Partner APIs and SDKs",
+    "longDescription": "Run Suki developer cookbook recipes with guided integration steps for ambient session lifecycle, auth, webhooks, Patient Summary, Dictation, Form filling, and SDK patterns.",
+    "category": "Developer Tools",
+    "websiteURL": "https://developer.suki.ai/documentation/cookbooks/overview",
+    "developerName": "Suki"
+  },
+  "author": {
+    "name": "Suki"
+  },
+  "homepage": "https://developer.suki.ai/documentation/cookbooks/overview",
+  "repository": "https://github.com/HarshSuki/suki-agent-plugins",
+  "skills": "./skills/"
+}

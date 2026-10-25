@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "suki-cookbook",
+  "version": "1.0.0",
+  "description": "Run Suki developer cookbook recipes in Claude Code, Cursor, or Codex with guided integration steps.",
+  "owner": {
+    "name": "Suki"
+  },
+  "plugins": [
+    {
+      "name": "cookbook",
+      "source": "./plugins/cookbook",
+      "description": "Short Suki integration recipes: ambient session lifecycle, auth, webhooks, Patient Summary, Dictation, and SDK patterns.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Suki"
+      },
+      "homepage": "https://developer.suki.ai/documentation/cookbooks/overview",
+      "repository": "https://github.com/HarshSuki/suki-agent-plugins",
+      "license": "Proprietary"
+    }
+  ]
+}

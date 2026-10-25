@@ -1,0 +1,13 @@
+{
+  "name": "cookbook",
+  "displayName": "Suki Cookbook",
+  "version": "1.0.0",
+  "description": "Run Suki developer cookbook recipes with guided integration steps for Partner APIs and SDKs.",
+  "author": {
+    "name": "Suki"
+  },
+  "homepage": "https://developer.suki.ai/documentation/cookbooks/overview",
+  "repository": "https://github.com/HarshSuki/suki-agent-plugins",
+  "license": "Proprietary",
+  "skills": "./skills/"
+}

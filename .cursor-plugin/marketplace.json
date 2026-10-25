@@ -1,0 +1,24 @@
+{
+  "name": "suki-cookbook",
+  "owner": {
+    "name": "Suki"
+  },
+  "metadata": {
+    "description": "Run Suki developer cookbook recipes in Claude Code, Cursor, or Codex with guided integration steps."
+  },
+  "plugins": [
+    {
+      "name": "cookbook",
+      "source": "./plugins/cookbook",
+      "description": "Short Suki integration recipes: ambient session lifecycle, auth, webhooks, Patient Summary, Dictation, and SDK patterns.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Suki"
+      },
+      "homepage": "https://developer.suki.ai/documentation/cookbooks/overview",
+      "repository": "https://github.com/HarshSuki/suki-agent-plugins",
+      "license": "Proprietary"
+    }
+  ],
+  "version": "1.0.0"
+}
